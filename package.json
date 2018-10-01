@@ -26,7 +26,7 @@
   "homepage": "https://github.com/dy/pan-zoom#readme",
   "dependencies": {
     "has-passive-events": "^1.0.0",
-    "impetus": "github:firasdib/impetus",
+    "impetus": "git+https://github/firasdib/impetus",
     "mouse-wheel": "^1.2.0",
     "raf": "^3.4.0",
     "touch-pinch": "^1.0.0",
